@@ -14,6 +14,6 @@ Building and using JetBot gives the hands on experience needed to create entirel
 
 To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT-private/jetbot/wiki).
 
-> 4/3/2019 - 更新中国区可用的DIY物料
+> 4/3/2019 - Update bill of materials for China Jetbot DIYers. 更新中国区可用的DIY物料
 
-中国区可用的DIY物料：[链接](https://github.com/liurongfang/jetbot/wiki/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9F%9FDIY-Jetbot%E5%8F%AF%E7%94%A8%E7%9A%84%E6%9B%BF%E4%BB%A3%E7%89%A9%E6%96%99%E6%B8%85%E5%8D%95)
+Bill of materials for China Jetbot DIYers.中国区可用的DIY物料：[链接](https://github.com/liurongfang/jetbot/wiki/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9F%9FDIY-Jetbot%E5%8F%AF%E7%94%A8%E7%9A%84%E6%9B%BF%E4%BB%A3%E7%89%A9%E6%96%99%E6%B8%85%E5%8D%95)
